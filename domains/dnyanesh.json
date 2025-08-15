@@ -1,9 +1,8 @@
 {
     "owner": {
-        "username": "your-github-username",
-        "email": "dvghan@gmail.com"
+        "username": "dvghan"
     },
     "records": {
-        "RECORDTYPE": "dvghan.github.io"
+        "CNAME": "dvghan.github.io"
     }
 }
